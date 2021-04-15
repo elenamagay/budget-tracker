@@ -20,7 +20,7 @@ When brought back online:
 
 ## The screenshot of the application is presented below
 
-![Image of an Application](public\images\budget-tracker-screenshot.png)
+![Image of an Application](public/dist/budget-tracker-screenshot.png)
 
 ## User Story
 AS AN avid traveller
