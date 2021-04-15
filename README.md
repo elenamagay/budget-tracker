@@ -20,7 +20,7 @@ When brought back online:
 
 ## The screenshot of the application is presented below
 
-![Image of an Application](./public/dist/budget-tracker-screenshot.png)
+<img src= "public/dist/budget-tracker-screenshot.png" style = "width: 75%; height: auto">
 
 ## User Story
 AS AN avid traveller
