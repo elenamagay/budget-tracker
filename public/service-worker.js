@@ -9,6 +9,7 @@ const FILES_TO_CACHE = [
 "/manifest.webmanifest",
 "/styles.css",
 "/index.js",
+"/db.js",
 ];
 
 // install
