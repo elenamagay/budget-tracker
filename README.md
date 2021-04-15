@@ -1,10 +1,10 @@
 # Budget Tracker
 
 ![License: MIT License](https://img.shields.io/badge/License-MIT-blue.svg)
-![Code Size](https://img.shields.io/github/languages/code-size/cparros/project-2)
+![Code Size](https://img.shields.io/github/languages/code-size/elenamagay/budget-tracker)
 ![Image of HTML badge](https://img.shields.io/badge/HTML-16.1%25-orange) 
-![Image of CSS badge](https://img.shields.io/badge/CSS-5.2%25-purple)
-![Image of JavaScript badge](https://img.shields.io/badge/JavaScript-78.7%25-yellow)
+![Image of CSS badge](https://img.shields.io/badge/CSS-5.1%25-purple)
+![Image of JavaScript badge](https://img.shields.io/badge/JavaScript-78.8%25-yellow)
 
 ## Description
 
@@ -20,7 +20,7 @@ When brought back online:
 
 ## The screenshot of the application is presented below
 
-<img src= "public/dist/budget-tracker-screenshot.png" style = "width: 75%; height: auto">
+<img src="public/assets/images/budget-tracker-screenshot.png" style = "width: 75%; height: auto">
 
 ## User Story
 AS AN avid traveller
